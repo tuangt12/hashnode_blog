@@ -35,6 +35,7 @@ Tạm hiểu theo cách đơn giản là những người tìm tới mình và �
 
 - Nếu các yêu cầu đều đến từ những người có "quyền lực" như nhau thì sao? Có 2 hướng:
 > Các bên phải thương lượng với nhau về thứ tự ưu tiên và chịu trách nhiệm về nó, tất nhiên sẽ có sự tham vấn từ team Product.
+
 > Uỷ thác cho team Product đưa thứ tự ưu tiên dựa vào độ phức tạp và phân tích MVP của từng yêu cầu, từ đó có thể đảm bảo release được các sản phẩm 1 cách sớm nhất cho tất cả các bên.
 
 (*) Bài học này cũng từ khi mình đóng vai trò là stakeholder. Mình luôn nhận được câu hỏi: "Cái này sẽ làm ra bao nhiêu tiền cho công ty?". Nói vui là vậy, nhưng "tiền" ở đây chính là thứ mà tính năng đó (nếu có) sẽ giải quyết được: có thể là mang lại tiền cho công ty, rút ngắn thời gian làm việc của nhân viên, giảm số người lao động, tăng lượng user, tăng hiệu quả branding cho công ty,...
