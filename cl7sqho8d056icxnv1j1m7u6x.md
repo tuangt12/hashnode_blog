@@ -33,7 +33,8 @@ Tạm hiểu theo cách đơn giản là những người tìm tới mình và �
 
 -> Mình sẽ hỏi: Cái này phục vụ cho ai? Sẽ giải quyết được những gì? Hiệu quả (dự kiến) ra sao? (hiệu quả có thể đo được bằng chỉ số, liên quan tới mục tiêu của team/ công ty).
 
-- Nếu các yêu cầu đều đến từ những người có "quyền lực" như nhau thì sao? Có 2 hướng:
+ - Nếu các yêu cầu đều đến từ những người có "quyền lực" như nhau thì sao? Có 2 hướng:
+
 > Các bên phải thương lượng với nhau về thứ tự ưu tiên và chịu trách nhiệm về nó, tất nhiên sẽ có sự tham vấn từ team Product.
 
 > Uỷ thác cho team Product đưa thứ tự ưu tiên dựa vào độ phức tạp và phân tích MVP của từng yêu cầu, từ đó có thể đảm bảo release được các sản phẩm 1 cách sớm nhất cho tất cả các bên.
