@@ -2,7 +2,7 @@
 
 Bài viết được đúc kết từ quá trình đi làm thực tiễn và học hỏi/ quan sát từ những người có kinh nghiệm trong lĩnh vực **Product Management**.
 
-*(*) "Stakeholder là cá nhân, nhóm hoặc tổ chức có thể ảnh hưởng, bị ảnh hưởng hoặc nhận thấy bản thân bị ảnh hưởng bởi quyết định, hoạt động hoặc kết quả của dự án, chương trình hoặc danh mục."
+*"Stakeholder là cá nhân, nhóm hoặc tổ chức có thể ảnh hưởng, bị ảnh hưởng hoặc nhận thấy bản thân bị ảnh hưởng bởi quyết định, hoạt động hoặc kết quả của dự án, chương trình hoặc danh mục."
 
 Tạm hiểu theo cách đơn giản là những người tìm tới mình và đưa ra yêu cầu cho sản phẩm/ tính năng sắp tới.*
 
@@ -11,11 +11,11 @@ Tạm hiểu theo cách đơn giản là những người tìm tới mình và �
 -------------------------------------------------
 
 
-#1. Không để bị cuốn theo giải pháp của họ
+# 1. Không để bị cuốn theo giải pháp của họ
 
 - Trước khi đưa ra yêu cầu với team Product, phía business hoặc BOD thường đã suy nghĩ khá nhiều về vấn đề và cách giải quyết vấn đề. Họ thường tìm tới team Tech khi đã có 1 giải pháp và mong muốn team Tech sẽ hiện thực hoá nó. Điều này đôi lúc đúng, nhưng nếu có nhiều stakeholder cùng làm như vậy, thì hẳn cái sản phẩm của mình sẽ thành 1 mớ hỗn độn ngay lập tức.
 
--> Đừng hỏi: **Bạn muốn tôi làm gì?**
+-> Đừng hỏi: **Bạn muốn làm gì?**
 
 -> Hãy hỏi: **Bạn muốn gì?**
 
@@ -25,7 +25,7 @@ Tạm hiểu theo cách đơn giản là những người tìm tới mình và �
 -> Hiện tại, mình đang đóng vai trò PM, và mình thường khắc phục bằng cách đưa ra cho stakeholder những cách có thể xử lý bằng tay (hoặc bằng các công cụ khác) trong thời gian team Tech chưa làm tính năng/ sản phẩm đó, và chỉ cho họ toàn bộ flow kết hợp giữa các công cụ (miễn phí) bên ngoài để có thể hoàn thành công việc. Đôi khi, với cách làm đó, team Tech cũng không cần phải phát triển thêm tính năng như yêu cầu, sẽ không lãng phí nguồn lực.
 
 
-#2. Ưu tiên backlog
+# 2. Sắp xếp độ ưu tiên
 
 - Có một câu nói đùa: Backlog chính là những gì mà stakeholder yêu cầu liên tục (chứ không phải là đưa ra vision, rồi roadmap, rồi user story,... bla bla). Mình thấy đúng 1 phần, trong quá trình làm thực tế!
 
@@ -34,12 +34,12 @@ Tạm hiểu theo cách đơn giản là những người tìm tới mình và �
 -> Mình sẽ hỏi: Cái này phục vụ cho ai? Sẽ giải quyết được những gì? Hiệu quả (dự kiến) ra sao? (hiệu quả có thể đo được bằng chỉ số, liên quan tới mục tiêu của team/ công ty).
 
 - Nếu các yêu cầu đều đến từ những người có "quyền lực" như nhau thì sao? Có 2 hướng:
-+ Các bên phải thương lượng với nhau về thứ tự ưu tiên và chịu trách nhiệm về nó, tất nhiên sẽ có sự tham vấn từ team Product.
-+ Uỷ thác cho team Product đưa thứ tự ưu tiên dựa vào độ phức tạp và phân tích MVP của từng yêu cầu, từ đó có thể đảm bảo release được các sản phẩm 1 cách sớm nhất cho tất cả các bên.
+> Các bên phải thương lượng với nhau về thứ tự ưu tiên và chịu trách nhiệm về nó, tất nhiên sẽ có sự tham vấn từ team Product.
+> Uỷ thác cho team Product đưa thứ tự ưu tiên dựa vào độ phức tạp và phân tích MVP của từng yêu cầu, từ đó có thể đảm bảo release được các sản phẩm 1 cách sớm nhất cho tất cả các bên.
 
 (*) Bài học này cũng từ khi mình đóng vai trò là stakeholder. Mình luôn nhận được câu hỏi: "Cái này sẽ làm ra bao nhiêu tiền cho công ty?". Nói vui là vậy, nhưng "tiền" ở đây chính là thứ mà tính năng đó (nếu có) sẽ giải quyết được: có thể là mang lại tiền cho công ty, rút ngắn thời gian làm việc của nhân viên, giảm số người lao động, tăng lượng user, tăng hiệu quả branding cho công ty,...
 
-#3. Biết "say no"
+# 3. Biết "say no"
 
 - Thông thường, phía business có rất nhiều ý tưởng rất hoành tráng, những chiếc "bánh vẽ" rất lớn rằng: nếu làm tính năng này như này, giống ông lớn kia, thì mình cũng sẽ được như họ,... Nhưng thường thì làm xong lại chẳng ai dùng, không có user, không có data, mọi thứ lại chỉ đi theo thiên kiến (bias) của stakeholder và kéo theo một vòng luẩn quẩn.
 
