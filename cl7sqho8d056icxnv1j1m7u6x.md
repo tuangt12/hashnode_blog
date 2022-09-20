@@ -1,4 +1,4 @@
-## [Product Management] 3 điều mình đúc kết được khi DEAL VỚI STAKEHOLDER
+## 3 điều mình đúc kết được khi DEAL VỚI STAKEHOLDER
 
 Bài viết được đúc kết từ quá trình đi làm thực tiễn và học hỏi/ quan sát từ những người có kinh nghiệm trong lĩnh vực **Product Management**.
 
