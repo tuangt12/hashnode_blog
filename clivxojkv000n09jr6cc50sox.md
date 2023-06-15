@@ -5,7 +5,7 @@ seoDescription: "Câu chuyện với vai trò Business Analyst cho dự án xã 
 datePublished: Wed Jun 14 2023 16:35:51 GMT+0000 (Coordinated Universal Time)
 cuid: clivxojkv000n09jr6cc50sox
 slug: trai-nghiem-dang-nho-voi-du-an-thay-thuoc-dong-hanh
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686760414637/783168ec-100b-41ae-98a4-00df40c7da39.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686818924158/d8443f71-53c2-41aa-b70f-a53902bdeb62.jpeg
 tags: project-management, business-analysis, case-study, ngo
 
 ---
